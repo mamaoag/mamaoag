@@ -12,6 +12,7 @@ I am a software engineer with 4 years experience in developing web applications 
 *   🧠  I'm learning Go
 *   🤝  I'm open to collaborating on Open Sourced Projects
 *   ⚡  I love learning and helping others
+
 <a href="https://www.twitter.com/jiomamaoag" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/jiomamaoag?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><a href="https://www.github.com/mamaoag" target="_blank" rel="noreferrer"><img
